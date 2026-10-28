@@ -21,7 +21,7 @@ Tkinter (biblioteca padrão)
 
 🚀 Como executar
 Clone o repositório:
-Bashgit clone https://github.com/amorimlais/spiderman-calculator.git
+Bashgit clone (https://github.com/amorimlais/calculadora-homem-aranha)
 
 📌 Extras
 Atalhos de teclado
