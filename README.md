@@ -23,12 +23,6 @@ Tkinter (biblioteca padrão)
 Clone o repositório:
 Bashgit clone https://github.com/amorimlais/spiderman-calculator.git
 
-Entre na pasta do projeto:
-Bashcd spiderman-calculator
-Execute o programa:
-
-Bashpython calculadora.pyNão é necessário instalar nenhuma dependência externa.
-
 📌 Extras
 Atalhos de teclado
 Tema com identidade visual do Homem-Aranha
