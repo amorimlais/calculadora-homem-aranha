@@ -1,4 +1,4 @@
-# 🕷️ Calculadora do Homem-AranhaCalculadora completa desenvolvida em Python com interface gráfica usando Tkinter, inspirada no universo do Homem-Aranha.
+# 🕷️ Calculadora do Homem-Aranha Calculadora completa desenvolvida em Python com interface gráfica usando Tkinter, inspirada no universo do Homem-Aranha.
 
 ✨ Funcionalidades
 Operações básicas: adição (+), subtração (-), multiplicação (*) e divisão (/)
