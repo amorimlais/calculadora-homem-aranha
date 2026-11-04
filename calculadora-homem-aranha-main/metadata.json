@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python Tkinter",
+  "description": "Calculadora completa em Python com Tkinter, operações avançadas, histórico e simulador interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
